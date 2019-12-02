@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" 
+    width="256" height="256">
+
+<path fill="black" d="M 80 128 L 80 181 L 128 181 z" />
+
+<path fill="black" d="M 176 128 L 128 75 L 176 75 z" />
+
+<path fill="black" d="M 130 89 L 170 133 L 125 166 L 89 127 z" />
+<circle fill="black" cx="108" cy="106" r="28" />
+<circle fill="black" cx="148" cy="150" r="28" />
+
+<circle style="fill: transparent; stroke: black; stroke-width: 16" cx="128" cy="128" r="108" />
+
+</svg>

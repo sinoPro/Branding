@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" 
+    width="256" height="64">
+
+<!-- 
+<path fill="black" d="M 0 0 L 256 0 L 256 64 L 0 64  z"
+    fill-opacity=".9"/> -->
+
+<!-- S -->
+<path fill="white" d="M 0 32 L 0 64 L 28 64 z" />
+<path fill="white" d="M 58 32 L 30 0 L 58 0 z" />
+<path fill="white" d="M 30.25 8 L 56 38 L 29 55.5 L 5.25 28 z" />
+<circle fill="white" cx="18.5" cy="19" r="16" />
+<circle fill="white" cx="42" cy="46" r="16" />
+
+<!-- I -->
+<path fill="white" d="M 76 0 L 102 0 L 102 64 L 76 64 z" />
+
+<!-- N -->
+<path fill="white" d="M 118 16 A 16 16, 0, 0, 1, 134 0 L 134 0 L 144 0 L 144 64 L 118 64 z" />
+<path fill="white" d="M 150 0 L 160 0 A 16 16, 0, 0, 1, 176 16 L 176 16 L 176 64 L 150 64 z" />
+
+<!-- O -->
+<path fill="white" d="M 222 0 L 222 64 L 220 64 A 13 16, 0, 0, 1, 220 0 z" />
+
+<path fill="white" d="M 228 0 L 228 64 L 230 64 A 13 16, 0, 0, 0, 230 0 z" />
+
+</svg>
