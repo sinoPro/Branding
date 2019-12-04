@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" 
+    width="256" height="256">
+
+<path fill="black" d="M 104 241.5 L 104 225.5 A 100 100, 1, 1, 1, 152 225.5 L 152 225.5 L 152 241.5 A 116 116, 0, 1, 0, 104 241.5 z" />
+
+<path fill="black" d="M 110 241.5 L 126 241.5 L 126 134 L 110 134   z" />
+<path fill="black" d="M 110 134 L 126 134 L 86 65 L 70 65   z" />
+<path fill="black" d="M 110 134 L 126 134 L 165 65 L 150 65   z" />
+
+<path fill="black" d="M 130 241.5 L 146 241.5 L 146 134 L 130 134   z" />
+<path fill="black" d="M 130 134 L 146 134 L 106 65 L 90 65   z" />
+<path fill="black" d="M 130 134 L 146 134 L 185 65 L 170 65   z" />
+
+<path fill="black" d="M 70 134 L 70 150 L 104 150 L 104 134   z" />
+<path fill="black" d="M 70 154 L 70 170 L 104 170 L 104 154   z" />
+<path fill="black" d="M 186 134 L 186 150 L 152 150 L 152 134   z" />
+<path fill="black" d="M 186 154 L 186 170 L 152 170 L 152 154   z" />
+
+</svg>
